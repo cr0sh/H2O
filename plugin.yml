@@ -1,0 +1,6 @@
+name: H2O
+main: scalar77\h2o\MainLoader
+author: scalar77-ifteam
+version: Alpha_1.2
+load: STARTUP
+api: [1.12.0]
